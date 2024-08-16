@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VascoTheBuddy69
 - 👀 I’m interested in playing tennis
-- 🌱 I’m currently learning how to create a game in Unity!
-- 💞️ I’m looking to collaborate on email or github!
+- 🌱 I’m currently learning how to create a game in Unity
+- 💞️ I’m looking to collaborate on email or github
 - 📫 How to reach me: vascodaconnor@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I own every Apple product except the Vision Pro (Looking to get one for Xmas!)
