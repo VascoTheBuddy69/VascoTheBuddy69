@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to create a game in Unity!
 - 💞️ I’m looking to collaborate on email or github!
 - 📫 How to reach me: vascodaconnor@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I own every Apple product except the Vision Pro (Looking to get one for Xmas!)
 
 <!---
