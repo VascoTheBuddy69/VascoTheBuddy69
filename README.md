@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on email or github
 - 📫 How to reach me: vascodaconnor@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I own every Apple product except the Vision Pro (Looking to get one for Xmas!)
+- ⚡ Fun fact: I actually touch grass!
 
 <!---
 VascoTheBuddy69/VascoTheBuddy69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
