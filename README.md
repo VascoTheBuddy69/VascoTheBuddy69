@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VascoTheBuddy69
-- 👀 I’m interested in playing tennis
-- 🌱 I’m currently learning how to create a game in Cursor
+- 👀 I’m interested in tennis
+- 🌱 I’m currently building a game in cursor
 - 💞️ I’m looking to collaborate on email or github
 - 📫 How to reach me: vascodaconnor@gmail.com
 - 😄 Pronouns: he/him/his
